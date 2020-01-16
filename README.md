@@ -15,9 +15,9 @@ This design fits the 120 V unit I have, with a manufacturing date of July 2017. 
 
 | Part           | Manufacturer | MPN        | Supplier        |
 |:---------------|:-------------|:-----------|:----------------|
-| Fuse Holder    | Eaton        | HMC-100M   | ![Farnell 1845422](https://uk.farnell.com/eaton-bussmann-series/htc-100m/fuse-holder-pcb-250v-5a/dp/2550634) |
-| MOV (120V)     | Panasonic    | ERZV05D271 | ![Farnell 1845398](https://uk.farnell.com/panasonic-electronic-components/erzv05d271/varistor-5mm-disc-270v/dp/1845398) |
-| MOV (120V Alt) | Panasonic    | ERZV07D271 | ![Farnell 1845422](https://uk.farnell.com/panasonic/erzv07d271/varistor-7mm-disc-270v/dp/1845422) |
+| Fuse Holder    | Eaton        | HMC-100M   | [Farnell 1845422](https://uk.farnell.com/eaton-bussmann-series/htc-100m/fuse-holder-pcb-250v-5a/dp/2550634) |
+| MOV (120V)     | Panasonic    | ERZV05D271 | [Farnell 1845398](https://uk.farnell.com/panasonic-electronic-components/erzv05d271/varistor-5mm-disc-270v/dp/1845398) |
+| MOV (120V Alt) | Panasonic    | ERZV07D271 | [Farnell 1845422](https://uk.farnell.com/panasonic/erzv07d271/varistor-7mm-disc-270v/dp/1845422) |
 
 If you have a 240V variant it would be great to add the details about the MOV used. Please submit an issue and I'll update the tables to suit!
 
